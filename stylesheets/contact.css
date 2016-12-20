@@ -1,0 +1,26 @@
+body{ background-color: rgb(25, 180, 225);
+
+}
+
+
+h1{
+	text-align: center;
+	font-family: arial;
+	font-size: 48px;
+	color: white;
+}
+
+
+
+
+ul.contact{
+	text-align: left;
+	font-family: courier new;
+	font-size: 28px;
+	color: white;
+	border: dotted white;
+}
+
+ul{
+	font-weight: bold;
+}

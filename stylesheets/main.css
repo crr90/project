@@ -1,0 +1,20 @@
+body{ background-color: lightgreen;
+	text-align: center;
+	font-size: 36px;
+	font-family: signpainter;
+
+}
+
+ul.nav-main{
+	text-align: left;
+	font-family: copperplate;
+	font-size: 24px;
+}
+
+li {
+	display: inline;
+	text-align: center;
+  	margin-top: 20px;
+  	margin-left: 50px;
+  	margin-right: 50px;
+}

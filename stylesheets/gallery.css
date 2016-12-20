@@ -1,0 +1,47 @@
+body {
+	background-color: blue;
+}
+
+
+
+h1{
+	font: 48px courier;
+	color: white;
+	text-align: center;
+	border: 1px solid white;
+}
+
+
+/* mobile first columns! */
+
+
+.column1of5 {
+	float: left;
+	border: solid white;
+	margin: 10px
+}
+
+.column2of5 {
+	display: inline-block;
+	border: 20px solid red;
+	margin: 10px;
+}
+
+.column3of5 {
+	float: left;
+	border: 25px solid white;
+	margin: 10px
+}
+
+.column4of5 {
+	display: inline-block;
+	border: 10px solid green;
+	margin: 25px
+}
+
+.column5of5 {
+	display: inline-block;
+	border: 40px solid white;
+	margin: 50px
+	
+}
